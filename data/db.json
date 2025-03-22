@@ -3,6 +3,8 @@
         {
             "id": "1",
             "baslik": "Halka Kebabı",
+            "resim":"halka-kebabi.jpg",
+            "aciklama":"8-10 Kisilik, 15dk Hazirlik, 30dk pisirme",
             "malzemeler": [
                 "500 gram kıyma",
                 "1 çay kaşığı tuz",
@@ -16,6 +18,8 @@
         {
             "id": "2",
             "baslik": "Karnıyarık Yemeği",
+            "resim":"karniyarik.jpg",
+            "aciklama":"8-10 Kisilik, 15dk Hazirlik, 30dk pisirme",
             "malzemeler": [
                 "6 adet küçük boy patlıcan",
                 "3 adet sivri biber",
@@ -29,6 +33,8 @@
         {
             "id": "3",
             "baslik": "Tavuklu Sultan Kebabı",
+            "resim":"tavuklu-sultan-kebabi.jpg",
+            "aciklama":"8-10 Kisilik, 15dk Hazirlik, 30dk pisirme",
             "malzemeler": [
                 "2 adet yufka",
                 "400g tavuk göğsü",
